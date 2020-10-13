@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 121.72944 80.099997"
+   version="1.1"
+   sodipodi:docname="gatship_logo_edited.svg"
+   width="50"
+   height="80"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata74">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>GatShip</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview72"
+     showgrid="false"
+     inkscape:zoom="4.8559671"
+     inkscape:cx="20.815658"
+     inkscape:cy="57.586995"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs45">
+    <style
+       id="style43">.cls-1{fill:#646363}.cls-2{fill:#f39200}.cls-3{fill:#878787}.cls-4{fill:none}</style>
+  </defs>
+  <title
+     id="title47">GatShip</title>
+  <path
+     class="cls-1"
+     d="m 50.229442,69.5 v 7 a 2.4,2.4 0 0 0 4.7,0 v -7 a 2.4,2.4 0 0 0 -4.7,0 z"
+     id="path49"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 18.129442,16.5 c -3.1,2.1 -1.4,2.2 -0.7,3.4 a 2.2,2.2 0 0 0 3.1,0.8 c 3.5,-2.4 7,-4.2 11.7,-4.2 10.7,0 19.4,6.8 19.4,15.2 l -0.2,2 a 2.6,2.6 0 0 0 2,2.9 2.1,2.1 0 0 0 2.4,-2 l 0.2,-2.9 c 0,-11.1 -10.7,-20.1 -23.9,-20.1 -5.4,-0.1 -9.7,2 -14,4.9 z"
+     id="path53"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 37.229442,13.6 a 2.6,2.6 0 0 0 -0.2,1 2.5,2.5 0 0 0 1.3,2.2 l 1.3,0.6 c 0.6,0.3 1.8,0.4 2.8,0.9 l 2.6,1.2 c 9.4,4.5 25.6,12.7 25.8,12.8 a 21,21 0 0 1 7.9,16.9 v 0.9 a 2.4,2.4 0 0 0 2.2,2.4 2.3,2.3 0 0 0 2.4,-2.3 26.1,26.1 0 0 0 -10.2,-22.1 l -0.3,-0.2 -29.7,-14.2 c -1.1,-0.5 -5.4,-1.3 -5.9,-0.1 z"
+     id="path55"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 96.629442,17 h 5.799998 v 4.81 h -5.799998 z"
+     id="path57"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 121.72944,79.9 c -81.133328,-53.46667 -40.566668,-26.73333 0,0 z M 1.4294421,16.5 c -3.3,3.6 -0.2,10 2.4,14.5 0.1,0.1 10.1999999,19.7 12.8999999,40.2 v 0.3 c 0.4,2.6 3.1,7.5 10,7.4 3.26667,0 3.26667,-4.9 0,-4.9 -4.1,0 -5,-2.7 -5.1,-3.3 -2.1,-19.2 -12.8999999,-41 -13.3999999,-42 -2.8,-4.8 -3.2,-7.1 -3.2,-8.2 -0.0458,-0.2707 -0.0111,-0.54891 0.1,-0.8 0.7,-0.8 5.0999999,0 8.5999999,1.5 0.7,0.3 58.3,21.5 83.9,44.3 v 8.6 h -52.4 c -3.26667,0 -3.26667,4.9 0,4.9 h 54.7 c 1.325478,0 2.399998,-1.07452 2.399998,-2.4 V 64.5 c 0.003,-0.68683 -0.28805,-1.34211 -0.8,-1.8 C 75.529442,39 17.829442,17.7 15.329442,16.8 12.829442,15.9 5.0294421,12.6 1.4294421,16.5 Z M 62.929442,0 l -0.2,17 h 5.1 V 4.8 h 13.5 v 17.1 h 8.9 v -4.8 h -4 V 0 Z"
+     id="path59"
+     sodipodi:nodetypes="cccccccsccccsccssssccscccccccccccc"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 81.229442,25.5 8.7,11.8 v 11.1 h 5.3 v 14.9 h 4.899998 V 43.5 h -5.299998 v -7.8 l -4,-5.4 h 11.699998 v -4.8 z"
+     id="path61"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 97.529442,72.1 h 4.799998 v 7 h -4.799998 z m -71.5,2 h 7 v 4.86 h -7 z"
+     id="path63"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 49.929442,66.7 a 2.3,2.3 0 1 0 0,4.5 h 5.2 a 2.3,2.3 0 1 0 0,-4.5 z"
+     id="path67"
+     style="fill:#000000;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="m 32.229442,73 5.8,3.6 -5.8,3.5 z"
+     id="path69"
+     style="fill:#000000;fill-opacity:1" />
+</svg>

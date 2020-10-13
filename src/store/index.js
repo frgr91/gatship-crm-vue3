@@ -1,8 +1,11 @@
 import { createStore } from "vuex";
 
 export default createStore({
-  state: {},
+  state: {
+    sidebarOpen: true,
+    test: "Jeg er en test",
+  },
   mutations: {},
   actions: {},
-  modules: {}
+  modules: {},
 });
